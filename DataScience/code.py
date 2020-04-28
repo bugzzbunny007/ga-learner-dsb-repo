@@ -44,8 +44,6 @@ max_marks_scored = max(mathematics,key = mathematics.get)
 topper=max_marks_scored
 # Code ends here  
 
-
-# --------------
 # Given string
 topper = 'andrew ng'
 top=topper.split()
@@ -58,5 +56,3 @@ print(full_name)
 certificate_name=full_name.upper()
 print(certificate_name)
 # Code ends here
-
-
